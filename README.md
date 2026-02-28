@@ -6,3 +6,6 @@ The primary problem I solved in the projects in this course centered around repr
 
 Thanks for viewing my portfolio for this class!
 
+###Examples of work from this class
+* (ProjectTwo - Excerpt.cpp)[ProjectTwo%20-%20Excerpt.cpp] - Excerpt of a C++ class to demonstrate sorting and printing a course list using a binary tree
+* ()[]
